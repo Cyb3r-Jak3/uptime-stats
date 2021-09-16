@@ -15,6 +15,9 @@ sites:
     expectedStatusCodes:
       - 308
       - 200
+  - name: Blog
+    url: https://blog.jwhite.network
+    icon: https://www.jwhite.network/images/favicon.png
   - name: Project Site
     url: https://projects.jwhite.network
     icon: https://projects.jwhite.network/assets/images/favicon/favicon-16x16.png
