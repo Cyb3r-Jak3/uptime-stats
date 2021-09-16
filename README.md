@@ -23,7 +23,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status.jwhite.network)
+[**Visit my status website →**](https://status.jwhite.network)
 
 ## 📄 License
 
