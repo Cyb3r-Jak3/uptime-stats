@@ -32,8 +32,15 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Portfolio
+      href: https://www.jwhite.network
+    - title: Blog
+      href: https://blog.jwhite.network
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
 assignees:
   - Cyb3r-Jak3
+
+
+runner: ["ubuntu-latest"]
