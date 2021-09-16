@@ -23,6 +23,7 @@ status-website:
   name: JWhite Status
   introTitle: Uptime Monitor of my sites and services. 
   introMessage: Powered by [Upptime](https://github.com/upptime/upptime)
+  theme: ocean
   navbar:
     - title: Status
       href: /
@@ -31,6 +32,3 @@ status-website:
 
 assignees:
   - Cyb3r-Jak3
-
-status-website:
-  theme: ocean
