@@ -44,4 +44,4 @@ assignees:
 runner: ["ubuntu-latest"]
 
 workflowSchedule:
-  responseTime: "0 * * * *""
+  responseTime: "0 * * * *"
