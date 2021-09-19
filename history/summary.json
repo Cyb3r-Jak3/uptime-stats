@@ -41,19 +41,17 @@
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "api",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 205,
     "timeDay": 202,
     "timeWeek": 205,
     "timeMonth": 205,
     "timeYear": 205,
-    "dailyMinutesDown": {
-      "2021-09-19": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
