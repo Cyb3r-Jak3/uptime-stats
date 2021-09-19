@@ -41,6 +41,7 @@ status-website:
 
 assignees:
   - Cyb3r-Jak3
-
-
 runner: ["ubuntu-latest"]
+
+workflowSchedule:
+  responseTime: "0 * * * *""
