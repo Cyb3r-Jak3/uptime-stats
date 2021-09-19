@@ -12,10 +12,6 @@ sites:
     url: https://api.jwhite.network
     icon: https://www.jwhite.network/images/favicon.png
     method: GET
-    maxRedirects: 0
-    expectedStatusCodes:
-      - 308
-      - 200
   - name: Blog
     url: https://blog.jwhite.network
     icon: https://www.jwhite.network/images/favicon.png
