@@ -4,19 +4,19 @@
     "url": "https://www.jwhite.network",
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "portfolio",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 106,
-    "timeDay": 106,
+    "timeDay": 105,
     "timeWeek": 107,
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2021-09-27": 2
+      "2021-09-27": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://portfolio.jwhite.network",
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "portfolio-self-hosted",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 102,
-    "timeDay": 104,
+    "timeDay": 106,
     "timeWeek": 99,
     "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2021-09-27": 2
+      "2021-09-27": 4
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.jwhite.network",
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 183,
-    "timeDay": 190,
+    "timeDay": 188,
     "timeWeek": 183,
     "timeMonth": 183,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2021-09-27": 1
+      "2021-09-27": 4
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://blog.jwhite.network",
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 108,
-    "timeDay": 121,
+    "timeDay": 122,
     "timeWeek": 105,
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2021-09-27": 1
+      "2021-09-27": 3
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://projects.jwhite.network",
     "icon": "https://projects.jwhite.network/assets/images/favicon/favicon-16x16.png",
     "slug": "project-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 109,
     "timeDay": 97,
     "timeWeek": 84,
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2021-09-27": 0
+      "2021-09-27": 2
     }
   }
 ]
