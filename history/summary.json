@@ -5,19 +5,17 @@
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 106,
     "timeDay": 105,
     "timeWeek": 107,
     "timeMonth": 106,
     "timeYear": 106,
-    "dailyMinutesDown": {
-      "2021-09-27": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portfolio (Self Hosted)",
@@ -25,19 +23,17 @@
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "portfolio-self-hosted",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 102,
     "timeDay": 106,
     "timeWeek": 99,
     "timeMonth": 102,
     "timeYear": 102,
-    "dailyMinutesDown": {
-      "2021-09-27": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -45,19 +41,17 @@
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 183,
     "timeDay": 188,
     "timeWeek": 183,
     "timeMonth": 183,
     "timeYear": 183,
-    "dailyMinutesDown": {
-      "2021-09-27": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -65,19 +59,17 @@
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 108,
     "timeDay": 122,
     "timeWeek": 105,
     "timeMonth": 108,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2021-09-27": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Project Site",
@@ -85,18 +77,16 @@
     "icon": "https://projects.jwhite.network/assets/images/favicon/favicon-16x16.png",
     "slug": "project-site",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 109,
     "timeDay": 97,
     "timeWeek": 84,
     "timeMonth": 109,
     "timeYear": 109,
-    "dailyMinutesDown": {
-      "2021-09-27": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
