@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 111,
+    "time": 106,
+    "timeDay": 103,
     "timeWeek": 105,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 305,
-    "timeWeek": 138,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "time": 119,
+    "timeDay": 115,
+    "timeWeek": 140,
+    "timeMonth": 119,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 196,
-    "timeWeek": 189,
+    "timeDay": 178,
+    "timeWeek": 191,
     "timeMonth": 187,
     "timeYear": 187,
     "dailyMinutesDown": {}
@@ -58,18 +58,20 @@
     "url": "https://blog.jwhite.network",
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 105,
-    "timeWeek": 119,
-    "timeMonth": 111,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
+    "time": 110,
+    "timeDay": 97,
+    "timeWeek": 116,
+    "timeMonth": 110,
+    "timeYear": 110,
+    "dailyMinutesDown": {
+      "2021-10-03": 0
+    }
   },
   {
     "name": "Project Site",
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 102,
-    "timeWeek": 99,
-    "timeMonth": 106,
-    "timeYear": 106,
+    "time": 107,
+    "timeDay": 125,
+    "timeWeek": 102,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {}
   }
 ]
