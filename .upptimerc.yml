@@ -18,6 +18,9 @@ sites:
   - name: Project Site
     url: https://projects.jwhite.network
     icon: https://projects.jwhite.network/assets/images/favicon/favicon-16x16.png
+  - name: Status Site
+    url: https://status.jwhite.network
+    icon: https://raw.githubusercontent.com/Cyb3r-Jak3/uptime-stats/master/assets/upptime-icon.svg
 
 status-website:
   cname: status.jwhite.network
