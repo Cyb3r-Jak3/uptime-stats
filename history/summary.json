@@ -60,19 +60,19 @@
     "url": "https://blog.jwhite.network",
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 121,
-    "timeDay": 758,
-    "timeWeek": 198,
+    "timeDay": 733,
+    "timeWeek": 197,
     "timeMonth": 130,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2021-11-09": 0
+      "2021-11-09": 4
     }
   },
   {
