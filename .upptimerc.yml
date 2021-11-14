@@ -3,8 +3,8 @@ repo: uptime-stats
 
 sites:
   - name: Portfolio
-    url: https://www.jwhite.network
-    icon: https://www.jwhite.network/images/favicon.png
+    url: https://www.cyberjake.xyz
+    icon: https://www.cyberjake.xyz/images/favicon.png
   - name: Portfolio (Self Hosted)
     url: https://portfolio.jwhite.network
     icon: https://www.jwhite.network/images/favicon.png
@@ -13,19 +13,19 @@ sites:
     icon: https://www.jwhite.network/images/favicon.png
     method: GET
   - name: Blog
-    url: https://blog.jwhite.network
-    icon: https://www.jwhite.network/images/favicon.png
+    url: https://blog.cyberjake.xyz
+    icon: https://www.cyberjake.xyz/images/favicon.png
   - name: Project Site
     url: https://projects.jwhite.network
     icon: https://projects.jwhite.network/assets/images/favicon/favicon-16x16.png
   - name: Status Site
-    url: https://status.jwhite.network
+    url: https://status.cyberjake.xyz
     icon: https://raw.githubusercontent.com/Cyb3r-Jak3/uptime-stats/master/assets/upptime-icon.svg
 
 status-website:
-  cname: status.jwhite.network
+  cname: status.cyberjake.xyz
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: JWhite Status
+  name: Cyb3r-Jak3 Status
   introTitle: Uptime Monitor of my sites and services. 
   introMessage: Powered by [Upptime](https://github.com/upptime/upptime)
   theme: ocean
@@ -33,9 +33,9 @@ status-website:
     - title: Status
       href: /
     - title: Portfolio
-      href: https://www.jwhite.network
+      href: https://www.cyberjake.xyz
     - title: Blog
-      href: https://blog.jwhite.network
+      href: https://blog.cyberjake.xyz
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
