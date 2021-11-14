@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 111,
-    "timeWeek": 117,
+    "timeDay": 113,
+    "timeWeek": 118,
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 107,
     "timeDay": 93,
-    "timeWeek": 120,
+    "timeWeek": 119,
     "timeMonth": 103,
     "timeYear": 107,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 219,
-    "timeDay": 153,
-    "timeWeek": 257,
+    "time": 220,
+    "timeDay": 162,
+    "timeWeek": 256,
     "timeMonth": 255,
-    "timeYear": 219,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2021-10-28": 5
     }
@@ -60,19 +60,19 @@
     "url": "https://blog.cyberjake.xyz",
     "icon": "https://www.cyberjake.xyz/images/favicon.png",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 108,
+    "timeDay": 111,
     "timeWeek": 203,
     "timeMonth": 131,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2021-11-14": 1
+      "2021-11-14": 5
     }
   },
   {
@@ -88,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 98,
     "timeDay": 93,
-    "timeWeek": 101,
+    "timeWeek": 100,
     "timeMonth": 96,
     "timeYear": 98,
     "dailyMinutesDown": {}
@@ -105,8 +105,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 93,
-    "timeWeek": 99,
+    "timeDay": 99,
+    "timeWeek": 100,
     "timeMonth": 100,
     "timeYear": 103,
     "dailyMinutesDown": {}
