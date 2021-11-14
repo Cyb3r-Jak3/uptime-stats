@@ -40,18 +40,19 @@
     "url": "https://api.jwhite.network",
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 220,
-    "timeDay": 162,
+    "timeDay": 168,
     "timeWeek": 256,
-    "timeMonth": 255,
+    "timeMonth": 256,
     "timeYear": 220,
     "dailyMinutesDown": {
+      "2021-11-14": 0,
       "2021-10-28": 5
     }
   },
@@ -61,19 +62,17 @@
     "icon": "https://www.cyberjake.xyz/images/favicon.png",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 111,
     "timeWeek": 203,
     "timeMonth": 131,
     "timeYear": 120,
-    "dailyMinutesDown": {
-      "2021-11-14": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Project Site",
