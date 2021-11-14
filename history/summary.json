@@ -1,8 +1,8 @@
 [
   {
     "name": "Portfolio",
-    "url": "https://www.jwhite.network",
-    "icon": "https://www.jwhite.network/images/favicon.png",
+    "url": "https://www.cyberjake.xyz",
+    "icon": "https://www.cyberjake.xyz/images/favicon.png",
     "slug": "portfolio",
     "status": "up",
     "uptime": "100.00%",
@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 110,
+    "timeDay": 111,
     "timeWeek": 117,
     "timeMonth": 108,
     "timeYear": 108,
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 88,
-    "timeWeek": 119,
+    "timeDay": 93,
+    "timeWeek": 120,
     "timeMonth": 103,
     "timeYear": 107,
     "dailyMinutesDown": {}
@@ -47,7 +47,7 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 219,
-    "timeDay": 150,
+    "timeDay": 153,
     "timeWeek": 257,
     "timeMonth": 255,
     "timeYear": 219,
@@ -57,12 +57,12 @@
   },
   {
     "name": "Blog",
-    "url": "https://blog.jwhite.network",
-    "icon": "https://www.jwhite.network/images/favicon.png",
+    "url": "https://blog.cyberjake.xyz",
+    "icon": "https://www.cyberjake.xyz/images/favicon.png",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 203,
     "timeMonth": 131,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-14": 0
+    }
   },
   {
     "name": "Project Site",
@@ -85,7 +87,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 94,
+    "timeDay": 93,
     "timeWeek": 101,
     "timeMonth": 96,
     "timeYear": 98,
@@ -93,14 +95,14 @@
   },
   {
     "name": "Status Site",
-    "url": "https://status.jwhite.network",
+    "url": "https://status.cyberjake.xyz",
     "icon": "https://raw.githubusercontent.com/Cyb3r-Jak3/uptime-stats/master/assets/upptime-icon.svg",
     "slug": "status-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 103,
     "timeDay": 93,
@@ -108,7 +110,7 @@
     "timeMonth": 100,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2021-11-14": 0
+      "2021-11-14": 3
     }
   }
 ]
