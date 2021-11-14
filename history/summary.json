@@ -22,9 +22,9 @@
     "url": "https://portfolio.jwhite.network",
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "portfolio-self-hosted",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 119,
     "timeMonth": 103,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-14": 0
+    }
   },
   {
     "name": "API",
@@ -42,17 +44,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 220,
-    "timeDay": 172,
-    "timeWeek": 256,
+    "timeDay": 185,
+    "timeWeek": 258,
     "timeMonth": 256,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2021-11-14": 5,
       "2021-10-28": 5
     }
   },
@@ -68,7 +69,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 111,
+    "timeDay": 112,
     "timeWeek": 203,
     "timeMonth": 131,
     "timeYear": 120,
@@ -86,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 93,
-    "timeWeek": 100,
+    "timeDay": 95,
+    "timeWeek": 101,
     "timeMonth": 96,
     "timeYear": 98,
     "dailyMinutesDown": {}
