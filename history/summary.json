@@ -22,9 +22,9 @@
     "url": "https://portfolio.jwhite.network",
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "portfolio-self-hosted",
-    "status": "up",
+    "status": "down",
     "uptime": "95.78%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "0.36%",
     "uptimeWeek": "62.80%",
     "uptimeMonth": "91.44%",
     "uptimeYear": "95.78%",
@@ -47,9 +47,9 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 236,
     "timeDay": 1084,
@@ -57,7 +57,6 @@
     "timeMonth": 292,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2021-11-17": 4,
       "2021-10-28": 5
     }
   },
