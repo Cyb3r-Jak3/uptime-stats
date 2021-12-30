@@ -4,11 +4,11 @@
     "url": "https://www.cyberjake.xyz",
     "icon": "https://www.cyberjake.xyz/images/favicon.png",
     "slug": "portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 100,
     "timeDay": 84,
@@ -16,7 +16,7 @@
     "timeMonth": 78,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2021-12-30": 2
+      "2021-12-30": 5
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 1917,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2021-12-30": 243,
+      "2021-12-30": 248,
       "2021-12-29": 1341,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
@@ -111,11 +111,11 @@
     "url": "https://blog.cyberjake.xyz",
     "icon": "https://www.cyberjake.xyz/images/favicon.png",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 114,
     "timeDay": 100,
@@ -123,7 +123,7 @@
     "timeMonth": 94,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2021-12-30": 0
+      "2021-12-30": 5
     }
   },
   {
@@ -149,11 +149,11 @@
     "url": "https://status.cyberjake.xyz",
     "icon": "https://raw.githubusercontent.com/Cyb3r-Jak3/uptime-stats/master/assets/upptime-icon.svg",
     "slug": "status-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 124,
     "timeDay": 88,
@@ -161,7 +161,7 @@
     "timeMonth": 128,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2021-12-30": 1
+      "2021-12-30": 5
     }
   }
 ]
