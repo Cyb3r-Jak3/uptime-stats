@@ -4,18 +4,20 @@
     "url": "https://www.cyberjake.xyz",
     "icon": "https://www.cyberjake.xyz/images/favicon.png",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 120,
-    "timeWeek": 100,
+    "timeDay": 127,
+    "timeWeek": 102,
     "timeMonth": 93,
     "timeYear": 95,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 0
+    }
   },
   {
     "name": "Portfolio (Self Hosted)",
@@ -23,15 +25,15 @@
     "icon": "https://www.jwhite.network/images/favicon.png",
     "slug": "portfolio-self-hosted",
     "status": "up",
-    "uptime": "72.41%",
+    "uptime": "72.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.41%",
+    "uptimeYear": "72.44%",
     "time": 158,
-    "timeDay": 188,
-    "timeWeek": 190,
-    "timeMonth": 170,
+    "timeDay": 201,
+    "timeWeek": 191,
+    "timeMonth": 171,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2022-01-17": 20,
@@ -96,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 265,
-    "timeDay": 329,
-    "timeWeek": 318,
-    "timeMonth": 307,
+    "timeDay": 346,
+    "timeWeek": 320,
+    "timeMonth": 308,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2022-01-17": 20,
@@ -111,18 +113,20 @@
     "url": "https://blog.cyberjake.xyz",
     "icon": "https://www.cyberjake.xyz/images/favicon.png",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 122,
-    "timeWeek": 110,
-    "timeMonth": 104,
+    "timeDay": 127,
+    "timeWeek": 112,
+    "timeMonth": 105,
     "timeYear": 109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 1
+    }
   },
   {
     "name": "Project Site",
@@ -136,9 +140,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 115,
+    "timeDay": 118,
     "timeWeek": 104,
-    "timeMonth": 95,
+    "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {}
   },
@@ -147,17 +151,19 @@
     "url": "https://status.cyberjake.xyz",
     "icon": "https://raw.githubusercontent.com/Cyb3r-Jak3/uptime-stats/master/assets/upptime-icon.svg",
     "slug": "status-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 113,
+    "timeDay": 106,
     "timeWeek": 104,
     "timeMonth": 101,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 2
+    }
   }
 ]
