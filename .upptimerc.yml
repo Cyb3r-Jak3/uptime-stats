@@ -21,6 +21,12 @@ sites:
   - name: Status Site
     url: https://status.cyberjake.xyz
     icon: https://raw.githubusercontent.com/Cyb3r-Jak3/uptime-stats/master/assets/upptime-icon.svg
+  - name: DNS API
+    url: https://dns.cyberjake.xyz/api/
+    icon: https://lookup.cyberjake.xyz/favicon.ico
+  - name: Lookup Client
+    url: https://lookup.cyberjake.xyz/
+    icon: https://lookup.cyberjake.xyz/favicon.ico
 
 status-website:
   cname: status.cyberjake.xyz
