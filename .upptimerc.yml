@@ -6,11 +6,11 @@ sites:
     url: https://www.cyberjake.xyz
     icon: https://www.cyberjake.xyz/images/favicon.png
   - name: Portfolio (Self Hosted)
-    url: https://portfolio.jwhite.network
-    icon: https://www.jwhite.network/images/favicon.png
+    url: https://portfolio.cyberjake.xyz
+    icon: https://portfolio.cyberjake.xyz/images/favicon.png
   - name: API
-    url: https://api.jwhite.network
-    icon: https://www.jwhite.network/images/favicon.png
+    url: https://api.cyberjake.xyz
+    icon: https://www.cyberjake.xyz/images/favicon.png
     method: GET
   - name: Blog
     url: https://blog.cyberjake.xyz
