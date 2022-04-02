@@ -9,7 +9,7 @@ sites:
     url: https://portfolio.cyberjake.xyz
     icon: https://portfolio.cyberjake.xyz/images/favicon.png
   - name: API
-    url: https://api.cyberjake.xyz
+    url: https://api.cyberjake.xyz/version
     icon: https://www.cyberjake.xyz/images/favicon.png
     method: GET
   - name: Blog
