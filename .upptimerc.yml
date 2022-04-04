@@ -15,9 +15,6 @@ sites:
   - name: Blog
     url: https://blog.cyberjake.xyz
     icon: https://www.cyberjake.xyz/images/favicon.png
-  - name: Project Site
-    url: https://projects.jwhite.network
-    icon: https://projects.jwhite.network/assets/images/favicon/favicon-16x16.png
   - name: Status Site
     url: https://status.cyberjake.xyz
     icon: https://raw.githubusercontent.com/Cyb3r-Jak3/uptime-stats/master/assets/upptime-icon.svg
