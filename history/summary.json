@@ -169,18 +169,16 @@
     "icon": "https://rdap.cyberjake.xyz/favicon.ico",
     "slug": "lookup-client",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 123,
     "timeDay": 159,
     "timeWeek": 127,
     "timeMonth": 140,
     "timeYear": 123,
-    "dailyMinutesDown": {
-      "2022-05-25": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
