@@ -46,6 +46,8 @@ assignees:
   - Cyb3r-Jak3
 runner: ["ubuntu-latest"]
 
+user-agent: Cyb3rUptime
+
 workflowSchedule:
   responseTime: "0 * * * *"
   uptime: "0 0 * * *"
