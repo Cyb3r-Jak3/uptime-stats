@@ -5,25 +5,38 @@ sites:
   - name: Portfolio
     url: https://www.cyberjake.xyz
     icon: https://www.cyberjake.xyz/images/favicon.png
+    headers:
+      - "User-Agent: Cyb3r Uptime"
   - name: Portfolio (Self Hosted)
     url: https://portfolio.cyberjake.xyz
     icon: https://portfolio.cyberjake.xyz/images/favicon.png
+    headers:
+      - "User-Agent: Cyb3r Uptime"
   - name: API
     url: https://api.cyberjake.xyz/version
     icon: https://www.cyberjake.xyz/images/favicon.png
-    method: GET
+    headers:
+      - "User-Agent: Cyb3r Uptime"
   - name: Blog
     url: https://blog.cyberjake.xyz
     icon: https://www.cyberjake.xyz/images/favicon.png
+    headers:
+      - "User-Agent: Cyb3r Uptime"
   - name: Status Site
     url: https://status.cyberjake.xyz
     icon: https://raw.githubusercontent.com/Cyb3r-Jak3/uptime-stats/master/assets/upptime-icon.svg
+    headers:
+      - "User-Agent: Cyb3r Uptime"
   - name: DNS API
     url: https://dns.cyberjake.xyz/api/
     icon: https://rdap.cyberjake.xyz/favicon.ico
+    headers:
+      - "User-Agent: Cyb3r Uptime"
   - name: Lookup Client
     url: https://rdap.cyberjake.xyz/
     icon: https://rdap.cyberjake.xyz/favicon.ico
+    headers:
+      - "User-Agent: Cyb3r Uptime"
 
 status-website:
   cname: status.cyberjake.xyz
@@ -45,8 +58,6 @@ status-website:
 assignees:
   - Cyb3r-Jak3
 runner: ["ubuntu-latest"]
-
-user-agent: Cyb3rUptime
 
 workflowSchedule:
   responseTime: "0 * * * *"
