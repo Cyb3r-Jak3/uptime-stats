@@ -26,10 +26,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit my status website →**](https://status.jwhite.network)
+[**Visit my status website →**](https://status.cyberjake.xyz)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Cyb3r Jak3](www.jwhite.network)
+- Code: [MIT](./LICENSE) © [Cyb3r Jak3](https://cyberjake.xyz)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
