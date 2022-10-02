@@ -61,4 +61,4 @@ runner: ["ubuntu-latest"]
 
 workflowSchedule:
   responseTime: "0 * * * *"
-  uptime: "0 0 * * *"
+  uptime: "*/5 * * * *"
