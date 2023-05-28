@@ -37,6 +37,10 @@ sites:
     icon: https://rdap.cyberjake.xyz/favicon.ico
     headers:
       - "User-Agent: Cyb3r Uptime"
+  - name: Send
+    url: https://send.cyberjake.xyz/
+    headers:
+      - "User-Agent: Cyb3r Uptime"
 
 status-website:
   cname: status.cyberjake.xyz
