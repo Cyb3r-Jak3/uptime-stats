@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 284,
-    "timeDay": 234,
-    "timeWeek": 262,
-    "timeMonth": 246,
+    "timeDay": 219,
+    "timeWeek": 256,
+    "timeMonth": 245,
     "timeYear": 287,
-    "dailyMinutesDown": {
-      "2022-09-18": 49
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portfolio (Self Hosted)",
@@ -25,19 +23,17 @@
     "icon": "https://portfolio.cyberjake.xyz/images/favicon.png",
     "slug": "portfolio-self-hosted",
     "status": "up",
-    "uptime": "93.65%",
+    "uptime": "93.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 352,
-    "timeDay": 285,
-    "timeWeek": 308,
-    "timeMonth": 289,
+    "timeDay": 160,
+    "timeWeek": 279,
+    "timeMonth": 286,
     "timeYear": 352,
-    "dailyMinutesDown": {
-      "2022-09-18": 49
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -51,14 +47,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 156,
-    "timeDay": 133,
-    "timeWeek": 132,
-    "timeMonth": 133,
+    "timeDay": 117,
+    "timeWeek": 131,
+    "timeMonth": 132,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2023-01-08": 22,
-      "2022-09-29": 90,
-      "2022-09-18": 49
+      "2022-09-29": 90
     }
   },
   {
@@ -73,8 +68,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 174,
-    "timeDay": 148,
-    "timeWeek": 154,
+    "timeDay": 164,
+    "timeWeek": 156,
     "timeMonth": 153,
     "timeYear": 175,
     "dailyMinutesDown": {
@@ -95,13 +90,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 154,
-    "timeDay": 141,
-    "timeWeek": 136,
+    "timeDay": 131,
+    "timeWeek": 131,
     "timeMonth": 138,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2022-10-02": 95,
-      "2022-09-18": 49
+      "2022-10-02": 95
     }
   },
   {
@@ -116,13 +110,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 86,
-    "timeWeek": 83,
+    "timeDay": 89,
+    "timeWeek": 85,
     "timeMonth": 88,
     "timeYear": 104,
-    "dailyMinutesDown": {
-      "2022-09-18": 49
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lookup Client",
@@ -136,13 +128,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 179,
-    "timeDay": 161,
+    "timeDay": 136,
     "timeWeek": 147,
     "timeMonth": 142,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-05-26": 15,
-      "2022-09-18": 49
+      "2023-05-26": 15
     }
   },
   {
@@ -156,11 +147,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 875,
-    "timeDay": 416,
-    "timeWeek": 2353,
-    "timeMonth": 2168,
-    "timeYear": 875,
+    "time": 869,
+    "timeDay": 156,
+    "timeWeek": 1782,
+    "timeMonth": 2127,
+    "timeYear": 869,
     "dailyMinutesDown": {}
   }
 ]
