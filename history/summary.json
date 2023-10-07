@@ -24,17 +24,18 @@
     "slug": "portfolio-self-hosted",
     "status": "down",
     "uptime": "93.82%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 349,
     "timeDay": 282,
     "timeWeek": 274,
     "timeMonth": 262,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2023-10-06": 1
+      "2023-10-07": 31,
+      "2023-10-06": 8
     }
   },
   {
@@ -141,18 +142,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.cyberjake.xyz.ico",
     "slug": "send",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 822,
     "timeDay": 1489,
     "timeWeek": 1085,
     "timeMonth": 1212,
     "timeYear": 822,
     "dailyMinutesDown": {
-      "2023-10-06": 4
+      "2023-10-07": 36,
+      "2023-10-06": 8
     }
   }
 ]
