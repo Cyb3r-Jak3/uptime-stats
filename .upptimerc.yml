@@ -3,8 +3,8 @@ repo: uptime-stats
 
 sites:
   - name: Portfolio
-    url: https://www.cyberjake.xyz
-    icon: https://www.cyberjake.xyz/images/favicon.png
+    url: https://cyberjake.xyz
+    icon: https://cyberjake.xyz/images/favicon.png
     headers:
       - "User-Agent: Cyb3r Uptime"
   - name: Portfolio (Self Hosted)
@@ -14,27 +14,17 @@ sites:
       - "User-Agent: Cyb3r Uptime"
   - name: API
     url: https://api.cyberjake.xyz/version
-    icon: https://www.cyberjake.xyz/images/favicon.png
+    icon: https://cyberjake.xyz/images/favicon.png
     headers:
       - "User-Agent: Cyb3r Uptime"
   - name: Blog
     url: https://blog.cyberjake.xyz
-    icon: https://www.cyberjake.xyz/images/favicon.png
+    icon: https://cyberjake.xyz/images/favicon.png
     headers:
       - "User-Agent: Cyb3r Uptime"
   - name: Status Site
     url: https://status.cyberjake.xyz
     icon: https://raw.githubusercontent.com/Cyb3r-Jak3/uptime-stats/master/assets/upptime-icon.svg
-    headers:
-      - "User-Agent: Cyb3r Uptime"
-  - name: DNS API
-    url: https://dns.cyberjake.xyz/api/
-    icon: https://rdap.cyberjake.xyz/favicon.ico
-    headers:
-      - "User-Agent: Cyb3r Uptime"
-  - name: Lookup Client
-    url: https://rdap.cyberjake.xyz/
-    icon: https://rdap.cyberjake.xyz/favicon.ico
     headers:
       - "User-Agent: Cyb3r Uptime"
   - name: Send
@@ -53,7 +43,7 @@ status-website:
     - title: Status
       href: /
     - title: Portfolio
-      href: https://www.cyberjake.xyz
+      href: https://cyberjake.xyz
     - title: Blog
       href: https://blog.cyberjake.xyz
     - title: GitHub
