@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 287,
-    "timeDay": 193,
-    "timeWeek": 198,
+    "timeDay": 215,
+    "timeWeek": 201,
     "timeMonth": 207,
-    "timeYear": 285,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2023-10-30": 29
     }
@@ -25,16 +25,16 @@
     "icon": "https://public-files.cyberjake.xyz/about.png",
     "slug": "portfolio-self-hosted",
     "status": "up",
-    "uptime": "94.29%",
+    "uptime": "94.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 340,
-    "timeDay": 145,
-    "timeWeek": 164,
+    "timeDay": 169,
+    "timeWeek": 168,
     "timeMonth": 158,
-    "timeYear": 342,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2023-10-07": 214,
       "2023-10-06": 8
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 114,
-    "timeWeek": 118,
-    "timeMonth": 120,
+    "timeDay": 140,
+    "timeWeek": 121,
+    "timeMonth": 121,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2023-01-08": 22
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 177,
-    "timeDay": 151,
+    "timeDay": 149,
     "timeWeek": 150,
-    "timeMonth": 149,
+    "timeMonth": 148,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2023-10-30": 29,
@@ -95,8 +95,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 114,
-    "timeWeek": 123,
+    "timeDay": 115,
+    "timeWeek": 121,
     "timeMonth": 118,
     "timeYear": 147,
     "dailyMinutesDown": {}
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 630,
-    "timeDay": 314,
-    "timeWeek": 296,
-    "timeMonth": 225,
-    "timeYear": 630,
+    "time": 629,
+    "timeDay": 316,
+    "timeWeek": 305,
+    "timeMonth": 230,
+    "timeYear": 629,
     "dailyMinutesDown": {
       "2023-10-07": 214,
       "2023-10-06": 8
