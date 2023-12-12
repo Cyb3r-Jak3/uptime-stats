@@ -4,19 +4,18 @@
     "url": "https://cyberjake.xyz",
     "icon": "https://public-files.cyberjake.xyz/about.png",
     "slug": "portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 287,
-    "timeDay": 209,
+    "timeDay": 210,
     "timeWeek": 201,
     "timeMonth": 207,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-12-12": 0,
       "2023-10-30": 29
     }
   },
