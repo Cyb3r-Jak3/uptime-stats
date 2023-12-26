@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 279,
-    "timeDay": 207,
-    "timeWeek": 196,
-    "timeMonth": 211,
-    "timeYear": 277,
+    "timeDay": 164,
+    "timeWeek": 189,
+    "timeMonth": 205,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2023-10-30": 29
     }
@@ -25,16 +25,16 @@
     "icon": "https://public-files.cyberjake.xyz/about.png",
     "slug": "portfolio-self-hosted",
     "status": "up",
-    "uptime": "94.39%",
+    "uptime": "94.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 336,
-    "timeDay": 153,
+    "timeDay": 161,
     "timeWeek": 153,
     "timeMonth": 157,
-    "timeYear": 336,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2023-10-07": 214,
       "2023-10-06": 8
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 113,
+    "timeDay": 121,
     "timeWeek": 120,
     "timeMonth": 121,
-    "timeYear": 147,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2023-01-08": 22
     }
@@ -72,8 +72,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 177,
-    "timeDay": 138,
-    "timeWeek": 158,
+    "timeDay": 181,
+    "timeWeek": 160,
     "timeMonth": 154,
     "timeYear": 176,
     "dailyMinutesDown": {
@@ -95,8 +95,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 101,
-    "timeWeek": 123,
+    "timeDay": 111,
+    "timeWeek": 119,
     "timeMonth": 120,
     "timeYear": 143,
     "dailyMinutesDown": {}
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 612,
-    "timeDay": 383,
-    "timeWeek": 380,
-    "timeMonth": 309,
-    "timeYear": 612,
+    "time": 611,
+    "timeDay": 409,
+    "timeWeek": 381,
+    "timeMonth": 316,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2023-10-07": 214,
       "2023-10-06": 8
