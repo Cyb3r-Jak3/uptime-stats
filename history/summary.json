@@ -24,11 +24,11 @@
     "url": "https://portfolio.cyberjake.xyz",
     "icon": "https://public-files.cyberjake.xyz/about.png",
     "slug": "portfolio-self-hosted",
-    "status": "down",
+    "status": "up",
     "uptime": "94.74%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 286,
     "timeDay": 133,
@@ -36,7 +36,7 @@
     "timeMonth": 174,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2024-02-17": 0,
+      "2024-02-17": 7,
       "2023-10-07": 214,
       "2023-10-06": 8
     }
@@ -104,9 +104,9 @@
     "slug": "send",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.94%",
     "time": 553,
     "timeDay": 139,
@@ -114,7 +114,7 @@
     "timeMonth": 226,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2024-02-17": 2,
+      "2024-02-17": 10,
       "2023-10-07": 214,
       "2023-10-06": 8
     }
