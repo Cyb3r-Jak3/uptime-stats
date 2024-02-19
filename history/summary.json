@@ -103,9 +103,9 @@
     "slug": "send",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.92%",
     "time": 550,
     "timeDay": 162,
@@ -113,7 +113,7 @@
     "timeMonth": 209,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2024-02-18": 41,
+      "2024-02-18": 33,
       "2024-02-17": 45,
       "2023-10-07": 214,
       "2023-10-06": 8
