@@ -7,11 +7,6 @@ sites:
     icon: https://public-files.cyberjake.xyz/about.png
     headers:
       - "User-Agent: Cyb3r Uptime"
-  - name: Portfolio (Self Hosted)
-    url: https://portfolio.cyberjake.xyz
-    icon: https://public-files.cyberjake.xyz/about.png
-    headers:
-      - "User-Agent: Cyb3r Uptime"
   - name: API
     url: https://api.cyberjake.xyz/version
     icon: https://public-files.cyberjake.xyz/about.png
