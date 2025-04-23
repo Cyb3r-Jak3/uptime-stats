@@ -27,6 +27,8 @@ sites:
     headers:
       - "User-Agent: Cyb3r Uptime"
 
+runner: "cyb3r-jak3-uptime-stats"
+
 status-website:
   cname: status.cyberjake.xyz
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -46,7 +48,6 @@ status-website:
 
 assignees:
   - Cyb3r-Jak3
-runner: ["ubuntu-latest"]
 
 workflowSchedule:
   responseTime: "0 * * * *"

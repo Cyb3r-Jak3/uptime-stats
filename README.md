@@ -1,6 +1,6 @@
-# [📈 Live Status](https://status.jwhite.network): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.cyberjake.xyz): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Cyb3r Jak3](www.jwhite.network), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Cyb3r Jak3](cyberjake.xyz), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/Cyb3r-Jak3/uptime-stats/workflows/Uptime%20CI/badge.svg)](https://github.com/Cyb3r-Jak3/uptime-stats/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Cyb3r-Jak3/uptime-stats/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Cyb3r-Jak3/uptime-stats/actions?query=workflow%3A%22Response+Time+CI%22)
