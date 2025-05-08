@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 199,
-    "timeWeek": 190,
-    "timeMonth": 195,
+    "timeDay": 208,
+    "timeWeek": 191,
+    "timeMonth": 196,
     "timeYear": 196,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 202,
-    "timeWeek": 186,
+    "timeDay": 200,
+    "timeWeek": 187,
     "timeMonth": 189,
     "timeYear": 187,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 208,
-    "timeWeek": 195,
+    "timeDay": 201,
+    "timeWeek": 193,
     "timeMonth": 199,
     "timeYear": 193,
     "dailyMinutesDown": {}
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 132,
-    "timeWeek": 131,
-    "timeMonth": 152,
+    "timeDay": 142,
+    "timeWeek": 133,
+    "timeMonth": 151,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -77,15 +77,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.cyberjake.xyz.ico",
     "slug": "send",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.64%",
     "time": 259,
-    "timeDay": 354,
-    "timeWeek": 299,
-    "timeMonth": 330,
+    "timeDay": 426,
+    "timeWeek": 324,
+    "timeMonth": 319,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2025-02-16": 16,
@@ -93,8 +93,7 @@
       "2024-11-30": 26,
       "2024-11-24": 44,
       "2024-06-30": 30,
-      "2024-05-09": 262,
-      "2024-05-08": 1440
+      "2024-05-09": 262
     }
   }
 ]
