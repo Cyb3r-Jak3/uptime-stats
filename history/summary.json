@@ -22,19 +22,19 @@
     "url": "https://api.cyberjake.xyz/version",
     "icon": "https://public-files.cyberjake.xyz/about.png",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 162,
-    "timeWeek": 189,
+    "timeDay": 165,
+    "timeWeek": 190,
     "timeMonth": 207,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-12-19": 2
+      "2025-12-19": 5
     }
   },
   {
