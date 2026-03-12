@@ -23,7 +23,7 @@ sites:
     headers:
       - "User-Agent: Cyb3r Uptime"
   - name: Send
-    url: https://send.cyberjake.xyz/
+    url: https://send.cyberjake.xyz/__heartbeat__
     headers:
       - "User-Agent: Cyb3r Uptime"
 
