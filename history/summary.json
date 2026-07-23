@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 185,
-    "timeWeek": 157,
+    "timeDay": 194,
+    "timeWeek": 161,
     "timeMonth": 162,
     "timeYear": 220,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 172,
-    "timeWeek": 154,
-    "timeMonth": 152,
+    "timeDay": 165,
+    "timeWeek": 158,
+    "timeMonth": 151,
     "timeYear": 219,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 200,
-    "timeWeek": 180,
-    "timeMonth": 166,
+    "timeDay": 198,
+    "timeWeek": 185,
+    "timeMonth": 167,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2026-07-20": 39
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 172,
+    "timeDay": 166,
     "timeWeek": 407,
-    "timeMonth": 229,
+    "timeMonth": 230,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -78,17 +78,17 @@
     "url": "https://send.cyberjake.xyz/__heartbeat__",
     "icon": "https://icons.duckduckgo.com/ip3/send.cyberjake.xyz.ico",
     "slug": "send",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.11%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "94.10%",
     "uptimeYear": "98.32%",
     "time": 279,
-    "timeDay": 244,
-    "timeWeek": 202,
-    "timeMonth": 1041,
-    "timeYear": 280,
+    "timeDay": 230,
+    "timeWeek": 203,
+    "timeMonth": 1047,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2025-08-25": 271,
       "2025-08-31": 50,
@@ -133,7 +133,8 @@
       "2026-03-03": 20,
       "2026-06-30": 141,
       "2026-06-29": 1440,
-      "2026-06-28": 1000
+      "2026-06-28": 1000,
+      "2026-07-23": 2
     }
   }
 ]
