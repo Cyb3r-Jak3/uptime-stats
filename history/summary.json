@@ -110,19 +110,19 @@
     "url": "https://skysend.cyberjake.xyz/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/skysend.cyberjake.xyz.ico",
     "slug": "sky-send",
-    "status": "down",
-    "uptime": "3.84%",
-    "uptimeDay": "3.84%",
-    "uptimeWeek": "3.84%",
-    "uptimeMonth": "3.84%",
-    "uptimeYear": "3.84%",
-    "time": 150,
-    "timeDay": 150,
-    "timeWeek": 150,
-    "timeMonth": 150,
-    "timeYear": 150,
+    "status": "up",
+    "uptime": "19.87%",
+    "uptimeDay": "19.87%",
+    "uptimeWeek": "19.87%",
+    "uptimeMonth": "19.87%",
+    "uptimeYear": "19.87%",
+    "time": 122,
+    "timeDay": 122,
+    "timeWeek": 122,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {
-      "2026-11-08": 5
+      "2026-11-08": 8
     }
   }
 ]
