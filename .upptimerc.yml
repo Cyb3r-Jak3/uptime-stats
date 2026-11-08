@@ -12,11 +12,6 @@ sites:
     icon: https://public-files.cyberjake.xyz/about.png
     headers:
       - "User-Agent: Cyb3r Uptime"
-  - name: Blog
-    url: https://blog.cyberjake.xyz
-    icon: https://public-files.cyberjake.xyz/about.png
-    headers:
-      - "User-Agent: Cyb3r Uptime"
   - name: Status Site
     url: https://status.cyberjake.xyz
     icon: https://raw.githubusercontent.com/Cyb3r-Jak3/uptime-stats/master/assets/upptime-icon.svg
@@ -24,6 +19,10 @@ sites:
       - "User-Agent: Cyb3r Uptime"
   - name: Send
     url: https://send.cyberjake.xyz/__heartbeat__
+    headers:
+      - "User-Agent: Cyb3r Uptime"
+  - name: SkySend
+    url: https://skysend.cyberjake.xyz/api/health
     headers:
       - "User-Agent: Cyb3r Uptime"
 
@@ -39,8 +38,6 @@ status-website:
       href: /
     - title: Portfolio
       href: https://cyberjake.xyz
-    - title: Blog
-      href: https://blog.cyberjake.xyz
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
