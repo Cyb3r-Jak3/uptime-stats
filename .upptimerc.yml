@@ -23,6 +23,7 @@ sites:
       - "User-Agent: Cyb3r Uptime"
   - name: SkySend
     url: https://skysend.cyberjake.xyz/api/health
+    icon: https://skysend.cyberjake.xyz/logo.svg
     headers:
       - "User-Agent: Cyb3r Uptime"
 
