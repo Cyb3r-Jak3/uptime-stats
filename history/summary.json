@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 176,
-    "timeWeek": 204,
+    "timeDay": 175,
+    "timeWeek": 203,
     "timeMonth": 221,
     "timeYear": 206,
     "dailyMinutesDown": {}
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 187,
+    "timeDay": 188,
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 189,
@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.81%",
     "time": 289,
-    "timeDay": 322,
+    "timeDay": 321,
     "timeWeek": 308,
     "timeMonth": 278,
     "timeYear": 289,
@@ -108,21 +108,19 @@
   {
     "name": "SkySend",
     "url": "https://skysend.cyberjake.xyz/api/health",
-    "icon": "https://icons.duckduckgo.com/ip3/skysend.cyberjake.xyz.ico",
+    "icon": "https://skysend.cyberjake.xyz/logo.svg",
     "slug": "sky-send",
     "status": "up",
-    "uptime": "19.87%",
-    "uptimeDay": "19.87%",
-    "uptimeWeek": "19.87%",
-    "uptimeMonth": "19.87%",
-    "uptimeYear": "19.87%",
-    "time": 122,
-    "timeDay": 122,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
-    "dailyMinutesDown": {
-      "2026-11-08": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 140,
+    "timeDay": 140,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
+    "dailyMinutesDown": {}
   }
 ]
