@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 211,
-    "timeWeek": 219,
-    "timeMonth": 215,
+    "timeDay": 187,
+    "timeWeek": 218,
+    "timeMonth": 214,
     "timeYear": 205,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 160,
-    "timeWeek": 149,
-    "timeMonth": 156,
+    "time": 193,
+    "timeDay": 137,
+    "timeWeek": 148,
+    "timeMonth": 155,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 187,
-    "timeWeek": 256,
-    "timeMonth": 222,
+    "timeDay": 182,
+    "timeWeek": 255,
+    "timeMonth": 221,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -58,16 +58,16 @@
     "url": "https://send.cyberjake.xyz/__heartbeat__",
     "icon": "https://icons.duckduckgo.com/ip3/send.cyberjake.xyz.ico",
     "slug": "send",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.88%",
     "time": 289,
-    "timeDay": 260,
-    "timeWeek": 284,
-    "timeMonth": 294,
+    "timeDay": 236,
+    "timeWeek": 280,
+    "timeMonth": 293,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2025-12-19": 22,
@@ -100,7 +100,7 @@
       "2026-06-28": 1000,
       "2026-07-23": 58,
       "2026-09-21": 112,
-      "2026-11-21": 7
+      "2026-11-21": 2
     }
   },
   {
@@ -108,19 +108,19 @@
     "url": "https://skysend.cyberjake.xyz/api/health",
     "icon": "https://skysend.cyberjake.xyz/logo.svg",
     "slug": "sky-send",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 155,
-    "timeDay": 162,
-    "timeWeek": 158,
+    "timeDay": 154,
+    "timeWeek": 157,
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2026-11-21": 16
+      "2026-11-21": 19
     }
   }
 ]
