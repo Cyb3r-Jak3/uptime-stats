@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 215,
-    "timeWeek": 220,
+    "timeDay": 211,
+    "timeWeek": 219,
     "timeMonth": 215,
     "timeYear": 205,
     "dailyMinutesDown": {}
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 163,
+    "timeDay": 160,
     "timeWeek": 149,
     "timeMonth": 156,
     "timeYear": 192,
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 186,
+    "timeDay": 187,
     "timeWeek": 256,
     "timeMonth": 222,
     "timeYear": 191,
@@ -58,14 +58,14 @@
     "url": "https://send.cyberjake.xyz/__heartbeat__",
     "icon": "https://icons.duckduckgo.com/ip3/send.cyberjake.xyz.ico",
     "slug": "send",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.88%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "98.87%",
     "time": 289,
-    "timeDay": 264,
+    "timeDay": 263,
     "timeWeek": 284,
     "timeMonth": 294,
     "timeYear": 288,
@@ -100,7 +100,7 @@
       "2026-06-28": 1000,
       "2026-07-23": 58,
       "2026-09-21": 112,
-      "2026-11-21": 2
+      "2026-11-21": 9
     }
   },
   {
@@ -109,18 +109,18 @@
     "icon": "https://skysend.cyberjake.xyz/logo.svg",
     "slug": "sky-send",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 155,
     "timeDay": 164,
     "timeWeek": 158,
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2026-11-21": 3
+      "2026-11-21": 11
     }
   }
 ]
