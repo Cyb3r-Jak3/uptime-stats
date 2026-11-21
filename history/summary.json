@@ -58,14 +58,14 @@
     "url": "https://send.cyberjake.xyz/__heartbeat__",
     "icon": "https://icons.duckduckgo.com/ip3/send.cyberjake.xyz.ico",
     "slug": "send",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.88%",
     "time": 289,
-    "timeDay": 263,
+    "timeDay": 258,
     "timeWeek": 284,
     "timeMonth": 294,
     "timeYear": 288,
@@ -99,7 +99,8 @@
       "2026-06-29": 1440,
       "2026-06-28": 1000,
       "2026-07-23": 58,
-      "2026-09-21": 112
+      "2026-09-21": 112,
+      "2026-11-21": 2
     }
   },
   {
