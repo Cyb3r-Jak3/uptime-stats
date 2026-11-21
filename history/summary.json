@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 185,
-    "timeWeek": 219,
+    "timeDay": 182,
+    "timeWeek": 218,
     "timeMonth": 214,
     "timeYear": 205,
     "dailyMinutesDown": {}
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 136,
+    "timeDay": 137,
     "timeWeek": 148,
     "timeMonth": 155,
     "timeYear": 192,
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 184,
-    "timeWeek": 256,
+    "timeDay": 181,
+    "timeWeek": 255,
     "timeMonth": 221,
     "timeYear": 191,
     "dailyMinutesDown": {}
@@ -60,13 +60,13 @@
     "slug": "send",
     "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "94.38%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "98.86%",
     "time": 289,
-    "timeDay": 238,
-    "timeWeek": 280,
+    "timeDay": 233,
+    "timeWeek": 279,
     "timeMonth": 293,
     "timeYear": 288,
     "dailyMinutesDown": {
@@ -100,7 +100,7 @@
       "2026-06-28": 1000,
       "2026-07-23": 58,
       "2026-09-21": 112,
-      "2026-11-21": 61
+      "2026-11-21": 81
     }
   },
   {
@@ -108,19 +108,19 @@
     "url": "https://skysend.cyberjake.xyz/api/health",
     "icon": "https://skysend.cyberjake.xyz/logo.svg",
     "slug": "sky-send",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "94.75%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 155,
-    "timeDay": 149,
-    "timeWeek": 158,
-    "timeMonth": 155,
-    "timeYear": 155,
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 154,
+    "timeDay": 145,
+    "timeWeek": 157,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {
-      "2026-11-21": 75
+      "2026-11-21": 78
     }
   }
 ]
