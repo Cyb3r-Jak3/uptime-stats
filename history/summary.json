@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 171,
+    "timeDay": 169,
     "timeWeek": 218,
     "timeMonth": 213,
     "timeYear": 205,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 134,
+    "timeDay": 135,
     "timeWeek": 148,
     "timeMonth": 154,
     "timeYear": 192,
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 181,
-    "timeWeek": 256,
-    "timeMonth": 220,
+    "timeDay": 182,
+    "timeWeek": 255,
+    "timeMonth": 219,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -58,15 +58,15 @@
     "url": "https://send.cyberjake.xyz/__heartbeat__",
     "icon": "https://icons.duckduckgo.com/ip3/send.cyberjake.xyz.ico",
     "slug": "send",
-    "status": "down",
+    "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "90.28%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "88.54%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "98.85%",
     "time": 289,
-    "timeDay": 228,
-    "timeWeek": 278,
+    "timeDay": 223,
+    "timeWeek": 277,
     "timeMonth": 292,
     "timeYear": 288,
     "dailyMinutesDown": {
@@ -100,7 +100,7 @@
       "2026-06-28": 1000,
       "2026-07-23": 58,
       "2026-09-21": 112,
-      "2026-11-21": 140
+      "2026-11-21": 165
     }
   },
   {
@@ -108,19 +108,19 @@
     "url": "https://skysend.cyberjake.xyz/api/health",
     "icon": "https://skysend.cyberjake.xyz/logo.svg",
     "slug": "sky-send",
-    "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "90.49%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
-    "time": 154,
-    "timeDay": 139,
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "88.77%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 155,
+    "timeDay": 144,
     "timeWeek": 157,
-    "timeMonth": 154,
-    "timeYear": 154,
+    "timeMonth": 155,
+    "timeYear": 155,
     "dailyMinutesDown": {
-      "2026-11-21": 136
+      "2026-11-21": 161
     }
   }
 ]
