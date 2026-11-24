@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 181,
-    "timeWeek": 214,
+    "timeDay": 192,
+    "timeWeek": 213,
     "timeMonth": 209,
     "timeYear": 204,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 134,
-    "timeWeek": 146,
+    "timeDay": 145,
+    "timeWeek": 145,
     "timeMonth": 152,
     "timeYear": 191,
     "dailyMinutesDown": {}
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 184,
-    "timeWeek": 199,
-    "timeMonth": 217,
+    "timeDay": 254,
+    "timeWeek": 207,
+    "timeMonth": 219,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -59,15 +59,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.cyberjake.xyz.ico",
     "slug": "send",
     "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "98.84%",
+    "uptime": "99.33%",
+    "uptimeDay": "76.72%",
+    "uptimeWeek": "95.04%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.78%",
     "time": 288,
-    "timeDay": 258,
-    "timeWeek": 274,
-    "timeMonth": 292,
+    "timeDay": 245,
+    "timeWeek": 270,
+    "timeMonth": 291,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2025-12-19": 22,
@@ -101,7 +101,8 @@
       "2026-07-23": 58,
       "2026-09-21": 112,
       "2026-11-21": 165,
-      "2026-11-23": 4
+      "2026-11-24": 8,
+      "2026-11-23": 327
     }
   },
   {
@@ -110,19 +111,20 @@
     "icon": "https://skysend.cyberjake.xyz/logo.svg",
     "slug": "sky-send",
     "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
-    "time": 154,
-    "timeDay": 156,
-    "timeWeek": 159,
-    "timeMonth": 154,
-    "timeYear": 154,
+    "uptime": "97.73%",
+    "uptimeDay": "76.68%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "97.73%",
+    "time": 155,
+    "timeDay": 167,
+    "timeWeek": 161,
+    "timeMonth": 155,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2026-11-21": 161,
-      "2026-11-23": 5
+      "2026-11-24": 9,
+      "2026-11-23": 327
     }
   }
 ]
