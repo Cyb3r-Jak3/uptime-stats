@@ -1,7 +1,7 @@
 url: https://send.cyberjake.xyz/__heartbeat__
 status: down
-code: 503
-responseTime: 72
-lastUpdated: 2026-11-25T22:03:16.772Z
+code: 500
+responseTime: 202
+lastUpdated: 2026-11-25T23:03:04.074Z
 startTime: 2023-05-28T22:02:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
